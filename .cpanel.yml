@@ -1,5 +1,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1762120/public_html/
-    - /cp index.html $DEPLOYPATH
-    - /cp LICENSE $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp LICENSE $DEPLOYPATH
+    - /bin/cp README.md $DEPLOYPATH
