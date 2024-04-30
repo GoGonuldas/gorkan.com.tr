@@ -6,3 +6,4 @@ deployment:
     - /bin/cp README.md $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R bootstrap-3.3.7 $DEPLOYPATH
