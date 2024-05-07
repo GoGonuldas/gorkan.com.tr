@@ -1,9 +1,10 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/u1762120/public_html/
-    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp onepage-image.html $DEPLOYPATH
     - /bin/cp LICENSE $DEPLOYPATH
     - /bin/cp README.md $DEPLOYPATH
-    - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
-    - /bin/cp -R bootstrap-3.3.7 $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R fonts $DEPLOYPATH
