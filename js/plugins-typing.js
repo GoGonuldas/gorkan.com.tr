@@ -78,9 +78,9 @@ document.addEventListener("swup:contentReplaced", function() {
   const text = document.querySelector('.trm-typed-text');
 
   const words = [
-    "UI/UX Designer",
-    "Web Developer",
-    "Photographer",
+    "Computer Engineer",
+    "Java Backend Developer",
+    "SAP Commerce Consultant",
     "Dreamer :)"
   ];
 
