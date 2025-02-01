@@ -8,4 +8,4 @@ deployment:
     - /bin/cp -R js $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
     - /bin/cp -R fonts $DEPLOYPATH
-    - /bin/cp cv_gorkan_gonuldas.pdf $DEPLOYPATH
+    - /bin/cp -R resume $DEPLOYPATH
