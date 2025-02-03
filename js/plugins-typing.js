@@ -2,8 +2,8 @@ const text = document.querySelector('.trm-typed-text');
 
 const words = [
   "Computer Engineer",
-  "Java Backend Developer",
-  "SAP Commerce Consultant",
+  "Senior Java Backend Developer",
+  "SAP Commerce Cloud Consultant",
   "Dreamer :)"
 ];
 
