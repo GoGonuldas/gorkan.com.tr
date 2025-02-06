@@ -1,0 +1,21 @@
+<svg width="512" height="507" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Kredi Kartı Arka Planı -->
+  <rect x="16" y="48" width="96" height="64" rx="8" ry="8" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Kart Çipi (Profesyonel Detay) -->
+  <rect x="24" y="58" width="20" height="16" rx="2" ry="2" fill="#000000"/>
+  
+  <!-- Kartın Altındaki Bant (Manyetik Şerit benzeri detay) -->
+  <line x1="16" y1="80" x2="112" y2="80" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Wi-Fi Sinyali: En Büyük Yaylar -->
+  <path d="M64,20 C47,20,32,35,32,52" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64,20 C81,20,96,35,96,52" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Wi-Fi Sinyali: İnce Yaylar -->
+  <path d="M64,28 C53,28,44,37,44,52" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <path d="M64,28 C75,28,84,37,84,52" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Wi-Fi Sinyali Merkez Noktası -->
+  <circle cx="64" cy="52" r="2" fill="#000000"/>
+</svg>
