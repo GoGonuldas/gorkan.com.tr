@@ -1,2 +1,3 @@
 # gorkan.com.tr
-gorkan web site
+This webiste Görkan Gönüldaş personal website
+https://gorkan.com.tr/
