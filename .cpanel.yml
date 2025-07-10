@@ -1,6 +1,6 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1762120/public_html/
+    - export DEPLOYPATH=/home/kl4nnw6p3936/public_html/gorkan.com.tr
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp LICENSE $DEPLOYPATH
     - /bin/cp README.md $DEPLOYPATH
